@@ -1,0 +1,30 @@
+---
+layout: post
+img: fiesta.jpg
+category: Binangonan
+title: Fiesta Casitas in Binangonan Rizal 3 beds and 1 bath
+published: true
+---
+
+<span class="image featured"><img src="/images/fiesta.jpg" alt=""></span>
+
+- Developer: irc properties
+- Location: Tatala, Binangonan
+- Lot Area: 46 sq.m.
+- Floor Area: 42 sq.m.
+- No. of Bedroom: 2
+- No. of Toilet & Bath: 1
+
+- Total Contract Price: 934,360
+- Reservation Fee: 10,000
+- Equity: 92,360 less DP
+- Equity Terms: 5,948.22
+- Max.Terms: 30 years
+- Monthly Amortization: 6,303.00
+
+- Financing: PAGIBIG
+- Description: Townhouse
+- Turnover Mode: Semi Finished
+- Turnover Date: 1 Year
+- Price per Square: 10,617.00
+

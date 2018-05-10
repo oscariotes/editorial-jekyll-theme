@@ -1,0 +1,32 @@
+---
+layout: post
+img: midori.jpg
+category: Taytay
+title: Zuri Mid Rise Condo Taytay 3 Beds 1 Bath
+published: true
+---
+
+<span class="image featured"><img src="/images/midori.jpg" alt=""></span>
+
+
+
+- Location: Brgy Dolores Taytay Rizal
+- Lot Area: 50 sqm
+- Floor Area: 294 sqm
+- Bedroom: 3
+- Toilet & Bath: 1
+
+
+- Total Contract Price: 2,475,000
+- Reservation Fee: 20,000
+- Equity: 20%
+- Net Downpayment: 495,000
+- Equity Terms: 33,000 / 15 months
+- Loanable Amount: 1,980,000
+- Max.Terms: 20 Years @7%
+- Monthly Amortization: 15,350.92
+- Financing: Bank
+
+- Description: Midori
+- Turnover Mode: Complete
+- Turnover Date: 

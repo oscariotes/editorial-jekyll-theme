@@ -1,0 +1,39 @@
+---
+layout: post
+img: virginia.jpg
+category: Montalban
+title: Virginia Dream Homes Rizal 3 beds and 2 bath
+published: true
+---
+
+<span class="image featured"><img src="/images/virginia.jpg" alt=""></span>
+
+- Gated community with 24/7 Security
+-  With open space for park/barbeque area
+-  1 Ride to Araneta Center, Cubao, Quezon City
+-  1 Ride to Marikina City
+-  Near Sm San Mateo
+-  Near Montalban Town Center, Purgold
+-  Flood Free Development
+-  Accesible to Trinoma, SM North, Quiapo, MRT Stations, Quezon Ave
+
+- Developer: Elite Dream Builders
+- Location: Burgos, Montalban 
+- Lot Area: 60 sqm
+- Floor Area: 63 sqm
+- Bedroom: 3
+- Toilet & Bath: 2
+
+
+- Total Contract Price: 2,650,000.00
+- Reservation Fee: 25,000
+- Equity: 265,000.00 - 10% DP
+- Equity Terms: 16,000 @ 15 Months
+- Loanable Amount: 2,385,000
+- Max.Terms	20 yrs Bank
+- Monthly Amortization: 17781.92
+- Financing: Bank
+
+- Description: Townhouse
+- Turnover Mode: Finished
+- Turnover Date: 2 Years

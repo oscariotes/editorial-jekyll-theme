@@ -1,17 +1,16 @@
 # Site settings
 title: SamutSaring Bahay at Lupa
-subtitle: Larry Suico
+subtitle: 
 email: larrysuico2@gmail.com
-description: Affordable House and Lot or Townhouses for sale in Rizal
-Updated listing and status feel free to contact us for more information.
+description: Affordable House and Lot or Townhouses for sale in Rizal. Updated listing and status feel free to contact us for more information.
 baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-author:
-street_address:
-city:
-state:
-zip_code:
-country:
+url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+author: 
+street_address: Driven HQ
+city: Mandaluyong City
+state: Metro Manila
+zip_code: 1554
+country: Philippines
 phone: Globe 0956 227 5210
        Sun 0923 635 6242
 

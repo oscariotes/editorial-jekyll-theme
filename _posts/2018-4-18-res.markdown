@@ -1,0 +1,28 @@
+---
+layout: post
+img: ant_res.jpg
+category: Antipolo
+title: Antipolo Residences 2 Bed and 2 Bath
+published: true
+---
+
+<span class="image featured"><img src="/images/ant_res.jpg" alt=""></span>
+
+- Location: Brgy. San Isidro, Antipolo City
+- Lot Area: 48 sqm
+- Floor Area: 50 sqm
+- Bedroom: 2
+- Toilet & Bath: 2
+
+
+- Total Contract Price: 2,419,200.00
+- Reservation Fee: 20,000.00
+- Equity: 369,200.00 
+- Equity Terms: 19,400.00 @ 18 Months
+- Max.Terms: 20 Years
+- Monthly Amortization: 15,893.63
+- Financing: Bank Only
+
+
+
+

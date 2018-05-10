@@ -1,0 +1,33 @@
+---
+layout: post
+img: image_nuevo.jpg
+category: Binangonan
+title: House and lot in Binangonan Rizal 3 beds and 1 bath
+published: true
+---
+
+<span class="image featured"><img src="/images/image_nuevo.jpg" alt=""></span>
+
+- Subdivison Name: Nuevo Residences
+- Developer: Nuevo Casas Land
+- Location: Pantok, Binangonan
+
+- Lot Area: 50
+- Floor Area: 62
+- No. of Bedroom: 3
+- No. of Toilet & Bath: 1
+- Garage: 1
+
+- Total Contract Price: 1,900,000
+- Reservation Fee: 20,000
+- Equity: 360,000
+- Equity Terms: 20,000/18 months
+- Max.Terms: 30 yrs.
+- Monthly Amortization: 11,137.33
+
+- Financing: PAGIBIG & BANKS
+- Description: Townhouse
+- Turnover Mode: Finished
+- Turnover Date: 1 Year
+- Price per Square: 16,964.00
+

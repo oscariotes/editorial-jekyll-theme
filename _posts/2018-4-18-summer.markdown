@@ -1,0 +1,28 @@
+---
+layout: post
+img: Summer.jpg
+category: Antipolo
+title: Summerfield Antipolo 4 Bed and 2 Bath
+published: true
+---
+
+<span class="image featured"><img src="/images/Summer.jpg" alt=""></span>
+
+- Location: Brgy. San Roque, Antipolo City
+- Lot Area: 52 sqm
+- Floor Area: 83 sqm
+- Bedroom: 4
+- Toilet & Bath: 2
+
+
+- Total Contract Price: 2,775,000.00
+- Reservation Fee: 20,000.00
+- Equity: 535,00 @20%
+- Equity Terms: 22,292.00 / 24 months
+- Max.Terms: 20 Years
+- Monthly Amortization: 16,552.00
+- Financing: Bank Only
+
+
+
+
