@@ -6,7 +6,6 @@ description: Affordable House and Lot or Townhouses for sale in Rizal. Updated l
 baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-=======
 url: "https://oscariotes.github.io" # the base hostname & protocol for your site
 author: 
 street_address: Driven HQ
