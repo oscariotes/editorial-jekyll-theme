@@ -6,8 +6,7 @@ title: Esplora 2 Townhomes
 published: true
 ---
 
-
-<span class="image featured"><img src="/images/Ads.jpg" alt=""></span>
+![My helpful screenshot]({{ "images/Ads.jpg" | absolute_url }})
 
 - Developer: Taylormade
 - Location: Bgy. Dela Paz, Antiplo City

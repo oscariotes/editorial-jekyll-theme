@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Listings
-image: assets/images/pic11.jpg
+image: images/banner.jpg
 ---
 <h2> List of Properties </h2>
 

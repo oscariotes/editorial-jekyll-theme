@@ -4,7 +4,13 @@ title:  "Buyer's Guide"
 date:   2018-05-09 
 category: article
 ---
-<span class="image featured"><img src="/images/cofee.jpg" alt=""></span>
+
+
+![My helpful screenshot]({{ "images/cofee.jpg" | absolute_url }})
+
+
+
+
 
 	ANALYZE
     

@@ -6,8 +6,8 @@ title: Bria Palazzo 3 beds and 1 bath
 published: true
 ---
 
+![My helpful screenshot]({{ "images/image20.jpg" | absolute_url }})
 
-<span class="image featured"><img src="/images/image20.jpg" alt=""></span>
 
 Specification: 
 
