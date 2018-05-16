@@ -6,9 +6,25 @@ title: House and Lot Bloomfield Teresa Rizal 2 beds and 1 bath
 published: true
 ---
 
+![Bloomfield]({{ "images/image38.jpg" | absolute_url }})
+
+
+<h3><p>Looking for a property in Teresa? This Townhouse is so Affordable! Near school and other major establishment.</p></h3>
+<br>
+<h4>Points of Interest or Nearby Places</h4>
+<br>
+
+- Teresa National High School
+- Bagumbayan Elementary School
+- Teresa Public Market
+- Teresa Municipal Hall
+- Banco de Oro
+- Jolibee
+<br>
+<br>
+
 
 - Subdivison Name: Bloomfield Teresa
-- Developer: Shaugnessy 
 - Location: Bagumbayan Teresa Rizal
 
 - Lot Area: 36 sqm.

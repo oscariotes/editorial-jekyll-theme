@@ -7,9 +7,9 @@ published: true
 ---
 
 
-<span class="image featured"><img src="/images/bau.jpg" alt=""></span>
+![My helpful screenshot]({{ "images/bau.jpg" | absolute_url }})
 
-- Developer: iRC
+
 - Location: Bgry. Mahabang Parang, Binangonan
 - Lot Area: 80
 - Floor Area: 58

@@ -2,14 +2,32 @@
 layout: post
 img: image27.jpeg
 category: Baras
-title: Bria Homes sa Baras Rizal 1 beds and 1 bath
+title: Bria Homes Rowhouse 1 beds and 1 bath
 published: true
 ---
 
-<span class="image featured"><img src="/images/image27.jpg" alt=""></span>
+![elena]({{ "images/image27.jpg" | absolute_url }})
+
+
+- 28 min away from Gate 2
+- 40 min away from SM City Masinag
+- 45 min away from Sta. Lucia Mall (Cainta)
+- 50 min away from LRT Line 2 (Santolan Station)
+- 1 hr away from Cubao, Quezon City
+- 1 hr & 10 min away from Ortigas Center, Pasig City
+
+<h4>Points of Interest or Nearby Places</h4>
+
+- Rizza elementary school
+- Pinugay High School
+- Antipolo City National Science & Technology
+- Antipolo Institute of Technology
+- Antipolo Hospital System
+- Iglesia ni Cristo 
+- Boso Boso Highlands Resort
+- Palo Alto
 
 - Subdivison Name: Bria Homes Baras 
-- Developer: Vista Land
 - Location: Bgry.Pinugay Baras Rizal
 - Lot Area: 36 sqm.
 - Floor Area: 22 sqm.
@@ -25,7 +43,7 @@ published: true
 
 - Financing: Pag-ibig
 - Description: Rowhouse
-- Turnover Mode: Complete Finished
-- Turnover Date:	2 Years
+- Turnover Mode: Bare
+- Turnover Date: 2 Years
 
 

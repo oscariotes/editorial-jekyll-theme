@@ -5,7 +5,7 @@ category: Taytay
 title: Zuri Izumi Townhouse in Taytay 3 Beds 3 Bath
 published: true
 ---
-<span class="image featured"><img src="/images/Izumi2.jpg" alt=""></span>
+![Izumi]({{ "images/Izumi2.jpg" | absolute_url }})
 
 RESERVATION FEE FOR ONLY 20K!!!!
 

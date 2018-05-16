@@ -6,7 +6,7 @@ title: Virginia Dream Homes Rizal 3 beds and 2 bath
 published: true
 ---
 
-<span class="image featured"><img src="/images/virginia.jpg" alt=""></span>
+![My helpful screenshot]({{ "images/virginia.jpg" | absolute_url }})
 
 - Gated community with 24/7 Security
 -  With open space for park/barbeque area

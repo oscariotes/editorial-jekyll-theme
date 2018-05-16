@@ -6,9 +6,10 @@ title: Lumina Homes Rizal 2 beds and 1 bath
 published: true
 ---
 
+<H4> This listing is currently sold out. From time to time units are reopened for reservation.</h4>
 
+<h4> Send me a message if interested and will give you updates.</h4>
 
-- Developer: Vista Land
 - Location: Bgry. Bilibiran, Binangonan
 - Lot Area: 36
 - Floor Area: 35

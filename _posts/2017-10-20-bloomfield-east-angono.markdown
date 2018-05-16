@@ -6,9 +6,9 @@ title: Bloomfield East sa Angono Rizal 2 beds and 1 bath
 published: true
 ---
 
-<span class="image featured"><img src="/images/image34.jpg" alt=""></span>
+![Bloomfield East]({{ "images/image34.jpg" | absolute_url }})
 
-Bloomfield East is located in Mahabang Parang, at the boundary of Antipolo and Angono.   Just 300 meters from M. L. Quezon Ave., project is accessible through public transportation and is near commercial areas, schools, and hospitals.
+<h3>Bloomfield East is located in Mahabang Parang, at the boundary of Antipolo and Angono.   Just 300 meters from M. L. Quezon Ave., project is accessible through public transportation and is near commercial areas, schools, and hospitals.</h3>
 
 - Subdivison Name: Bloomfield East 
 - Developer: Shaugnessy 

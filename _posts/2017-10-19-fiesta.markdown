@@ -6,9 +6,9 @@ title: Fiesta Casitas in Binangonan Rizal 3 beds and 1 bath
 published: true
 ---
 
-![My helpful screenshot]({{ "images/fiesta.jpg" | absolute_url }})
+![Fiesta]({{ "images/fiesta.jpg" | absolute_url }})
 
-- Developer: irc properties
+
 - Location: Tatala, Binangonan
 - Lot Area: 46 sq.m.
 - Floor Area: 42 sq.m.

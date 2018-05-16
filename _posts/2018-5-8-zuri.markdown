@@ -6,9 +6,20 @@ title: Zuri Mid Rise Condo Taytay 3 Beds 1 Bath
 published: true
 ---
 
-<span class="image featured"><img src="/images/midori.jpg" alt=""></span>
 
+![My helpful screenshot]({{ "images/midori.jpg" | absolute_url }})
 
+- 1.9 km or 5 min away to Tikling Taytay
+- 3.3 km or 7 min away to SM City Taytay
+- 11 km or 30 min away to Ortigas Center
+
+<h4>Points of Interest or Nearby Places</h4>
+
+- SM Taytay
+- San Beda Rizal Campus
+- Pinto Art Museum
+- Manila East Medical Center
+- Bosay Resort
 
 - Location: Brgy Dolores Taytay Rizal
 - Lot Area: 50 sqm

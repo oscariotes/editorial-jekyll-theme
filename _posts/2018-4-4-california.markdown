@@ -6,7 +6,7 @@ title: California Dream Homes 3 Bed and 2 Bath
 published: true
 ---
 
-<span class="image featured"><img src="/images/cali.jpg" alt=""></span>
+![My helpful screenshot]({{ "images/cali.jpg" | absolute_url }})
 
 
 Amenities:
@@ -17,7 +17,6 @@ Amenities:
 - Clubhouse
 
 
-- Developer: Elite Dream Builders
 - Location: Brgy. Dulong Bayan, San Mateo Rizal
 - Lot Area: 60 sqm
 - Floor Area: 63 sqm

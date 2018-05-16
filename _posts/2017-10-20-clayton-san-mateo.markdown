@@ -2,13 +2,12 @@
 layout: post
 img: image42.jpg
 category: San Mateo
-title: Clayton Heights sa San Mateo Rizal 2 beds and 1 bath
+title: Clayton Heights in San Mateo Rizal 2 beds and 1 bath
 published: true
 ---
-<span class="image featured"><img src="/images/image42.jpg" alt=""></span>
+![My helpful screenshot]({{ "images/image42.jpg" | absolute_url }})
 
 - Subdivison Name: Clayton Heights
-- Developer: New Apec
 - Location: Malanday,San Mateo
 - Lot Area: 36 sqm
 - Floor Area: 36 sqm

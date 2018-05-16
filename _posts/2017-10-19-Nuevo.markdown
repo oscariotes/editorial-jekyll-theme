@@ -2,11 +2,13 @@
 layout: post
 img: image_nuevo.jpg
 category: Binangonan
-title: House and lot in Binangonan Rizal 3 beds and 1 bath
+title: Nuevo Residences in Binangonan Rizal 3 beds and 1 bath
 published: true
 ---
 
-<span class="image featured"><img src="/images/image_nuevo.jpg" alt=""></span>
+![nuevo]({{ "images/image_nuevo.jpg" | absolute_url }})
+
+<h4>Watch out for News and updates! New Phase will be opened soon!</h4>
 
 - Subdivison Name: Nuevo Residences
 - Developer: Nuevo Casas Land

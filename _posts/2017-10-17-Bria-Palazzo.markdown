@@ -6,10 +6,13 @@ title: Bria Palazzo 3 beds and 1 bath
 published: true
 ---
 
-![My helpful screenshot]({{ "images/image20.jpg" | absolute_url }})
+![Palazzo]({{ "images/image20.jpg" | absolute_url }})
 
 
-Specification: 
+
+
+
+<h4>Specification: </h4>
 
 - Guard House
 - Basketball court

@@ -6,7 +6,10 @@ title: Antipolo Residences 2 Bed and 2 Bath
 published: true
 ---
 
-<span class="image featured"><img src="/images/ant_res.jpg" alt=""></span>
+![ant]({{ "images/ant_res.jpg" | absolute_url }})
+
+<h4>Looking for a property with a nice overlooking view? How about rural feel right inside the city?
+This will be the right one for you. One tricycle ride from Antipolo Cathedral and other major establishments. Major roads to access are Ortigas Ave ext., Sumulong Highway and Marcos Highway.</h4>
 
 - Location: Brgy. San Isidro, Antipolo City
 - Lot Area: 48 sqm

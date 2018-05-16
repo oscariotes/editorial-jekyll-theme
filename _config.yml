@@ -4,13 +4,10 @@ subtitle:
 email: larrysuico2@gmail.com
 description: Affordable House and Lot or Townhouses for sale in Rizal. Updated listing and status feel free to contact us for more information.
 baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
-<<<<<<< HEAD
 url: "" # the base hostname & protocol for your site
 author:
-=======
 url: "https://oscariotes.github.io" # the base hostname & protocol for your site
 author: 
->>>>>>> d2ae4a845334f4eff85e878cd0e99398f428592b
 street_address: Driven HQ
 city: Mandaluyong City
 state: Metro Manila

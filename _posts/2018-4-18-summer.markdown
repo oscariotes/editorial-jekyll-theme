@@ -6,7 +6,7 @@ title: Summerfield Antipolo 4 Bed and 2 Bath
 published: true
 ---
 
-<span class="image featured"><img src="/images/Summer.jpg" alt=""></span>
+![summer]({{ "images/Summer.jpg" | absolute_url }})
 
 - Location: Brgy. San Roque, Antipolo City
 - Lot Area: 52 sqm

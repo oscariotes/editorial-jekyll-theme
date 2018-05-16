@@ -6,7 +6,7 @@ title: The Nest Oasis 3 beds and 3 bath
 published: true
 ---
 
-<span class="image featured"><img src="/images/thenest.jpg" alt=""></span>
+![nest]({{ "images/thenest.jpg" | absolute_url }})
 
 - Gated community with 24/7 Security
 - With open space for park/barbeque area
@@ -17,7 +17,7 @@ published: true
 - Flood Free Development
 - Accesible to Trinoma, SM North, Quiapo, MRT Stations, Quezon Ave
 
-- Developer: Firebird
+
 - Location: Ampid, San Mateo 
 - Lot Area: 80 sqm
 - Floor Area: 70.96 sqm

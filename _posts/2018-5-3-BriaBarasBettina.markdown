@@ -2,11 +2,29 @@
 layout: post
 img: bettina.jpg
 category: Baras
-title: Townhouse in Baras 2 Beds 1 Bath
+title: Bria Baras Bettina Townhouse 2 Beds 1 Bath
 published: true
 ---
 
-<span class="image featured"><img src="/images/bettina.jpg" alt=""></span>
+![My helpful screenshot]({{ "images/bettina.jpg" | absolute_url }})
+
+- 28 min away from Gate 2
+- 40 min away from SM City Masinag
+- 45 min away from Sta. Lucia Mall (Cainta)
+- 50 min away from LRT Line 2 (Santolan Station)
+- 1 hr away from Cubao, Quezon City
+- 1 hr & 10 min away from Ortigas Center, Pasig City
+
+<h4>Points of Interest or Nearby Places</h4>
+
+- Rizza elementary school
+- Pinugay High School
+- Antipolo City National Science & Technology
+- Antipolo Institute of Technology
+- Antipolo Hospital System
+- Iglesia ni Cristo 
+- Boso Boso Highlands Resort
+- Palo Alto
 
 - Location: Bgry. Pinugay, Baras
 - Lot Area: 36
