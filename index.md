@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /samutsarihub/
+permalink: /samutsarihub.com
 ---
 
 <!-- Section -->
