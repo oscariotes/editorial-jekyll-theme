@@ -5,14 +5,14 @@ layout: default
 <!-- Section -->
 <section>
 	<header class="major">
-		<h2>Sticky Post</h2>
+		<h2>Types of Unit Turnover</h2>
 	</header>
 	<div class="features">
 		<article>
 			<span class="icon fa-home"></span>
 			<div class="content">
 				<h3>Bare Type</h3>
-				<p>his type of turnover is just the basic. No tiles, paint, ceiling and room partitions.</p>
+				<p>This type of turnover is just the basic. No tiles, paint, ceiling and room partitions.</p>
 			</div>
 		</article>
 		<article>

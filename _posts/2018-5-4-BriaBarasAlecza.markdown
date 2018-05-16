@@ -3,6 +3,7 @@ layout: post
 img: alecza1.jpg
 category: Baras
 title: Bria Baras Duplex House Baras 2 Beds 1 Bath
+description: Affordable house and lot from Bria without sacrificing quality.
 published: true
 ---
 ![My helpful screenshot]({{ "images/alecza1.jpg" | absolute_url }})
