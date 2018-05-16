@@ -3,10 +3,10 @@ title: SamutSaring Bahay at Lupa
 subtitle:
 email: larrysuico2@gmail.com
 description: Affordable House and Lot or Townhouses for sale in Rizal. Updated listing and status feel free to contact us for more information.
-baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-url: "https://oscariotes.github.io" # the base hostname & protocol for your site
+url: # the base hostname & protocol for your site
 author:
 street_address: Driven HQ
 city: Mandaluyong City
