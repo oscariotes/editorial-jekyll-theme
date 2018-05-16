@@ -8,12 +8,7 @@ image: images/banner.jpg
 <h4><ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{'/' | absolute_url}}{{ post.url }}">{{ post.title }}</a>
+      <a href="{{'' | absolute_url}}{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul></h4>
-
-
-
-
-
