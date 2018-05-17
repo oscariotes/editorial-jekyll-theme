@@ -1,0 +1,38 @@
+---
+layout: post
+img: paseo4web4web.jpg
+category: Antipolo
+title: Paseo De Jesus Antipolo Rizal 2 Beds and 2 Bath
+published: true
+---
+
+![paseo]({{ "images/paseo4web.jpg" | absolute_url }})
+
+<h3><p>Ready for Occupancy in Antipolo</p></h3>
+<br>
+<br>
+<h4>For more details please send me a message or give me a call</h4>
+<br>
+
+Ready For Occupancy In Antipolo
+
+- Paseo De Jesus 
+- Dalig Antipolo City
+
+- Townhouse Complete Finished 
+- Lot Area: 55 sqm. 
+- Floor Area: 54.25 sqm.
+
+- 2 bedroom
+- 2 Toilet & Bath
+- Living/kitchen Area
+- With service Area
+- 1 Garage Area
+
+- Total Contrace Price: 2,819,750
+
+- Downpayment
+- 20% : 563,950
+
+- Monthly Amortization thru Bank
+- 20 years: 16,161.25
