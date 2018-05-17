@@ -10,9 +10,9 @@ published: true
 
 <h3><p>Ready for Occupancy in Antipolo</p></h3>
 <br>
-<br>
+
 <h4>For more details please send me a message</h4>
-<br>
+
 
 - Pines City Royale
 - Bgry San Roque Antipolo City
@@ -28,7 +28,7 @@ published: true
 
 - Total Contract Price: 2,778.000
 - Reservation Fee:30,000
-- Downpayment:555,700 
+- Downpayment:555,700
 - If DP Payable in 8 months: 69,462
 - Bank Amortization
 - 20 years: 13,924
