@@ -9,7 +9,7 @@ published: true
 ![pine]({{ "images/pine4web.jpg" | absolute_url }})
 
 <h3><p>Ready for Occupancy in Antipolo</p></h3>
-<br>
+
 
 <h4>For more details please send me a message</h4>
 
