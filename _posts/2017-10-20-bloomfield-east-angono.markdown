@@ -10,8 +10,7 @@ published: true
 
 <h3>Bloomfield East is located in Mahabang Parang, at the boundary of Antipolo and Angono.   Just 300 meters from M. L. Quezon Ave., project is accessible through public transportation and is near commercial areas, schools, and hospitals.</h3>
 
-- Subdivison Name: Bloomfield East 
-- Developer: Shaugnessy 
+- Subdivison Name: Bloomfield East
 - Location: Mahabang Parang Angono
 - Lot Area: 40 sqm
 - Floor Area: 44 sqm.
@@ -31,4 +30,3 @@ published: true
 - Turnover Mode: Semi Finished Type
 - Turnover Date: 2 years
 - Price per Square: 31,000.00
-
