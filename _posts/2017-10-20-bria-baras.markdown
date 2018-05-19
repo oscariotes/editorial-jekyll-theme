@@ -36,6 +36,7 @@ published: true
 - No. of Bedroom: 1
 - No. of Toilet & Bath: 1
 - Total Contract Price: 490,000
+- Reservation: 3,000
 - Equity: 40,000
 - Equity Terms: 2,643/14 months
 - Max.Terms: 30 years (3%)
@@ -48,6 +49,7 @@ published: true
 - No. of Bedroom: 1
 - No. of Toilet & Bath: 1
 - Total Contract Price: 666,000
+- Reservation: 5,000
 - Equity: 61,600
 - Equity Terms: 4,400/14 months
 - Max.Terms: 30 years (6.5%)
