@@ -47,7 +47,7 @@ published: true
 - Floor Area: 22 sqm.
 - No. of Bedroom: 1
 - No. of Toilet & Bath: 1
-- Total Contract Price: 599,000
+- Total Contract Price: 666,000
 - Equity: 61,600
 - Equity Terms: 4,400/14 months
 - Max.Terms: 30 years (6.5%)
