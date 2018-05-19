@@ -28,7 +28,7 @@ published: true
 - Palo Alto
 
 - Subdivison Name: Bria Homes Baras
-- Location: Bgry.Pinugay Baras Rizal
+- Bgry.Pinugay Baras Rizal
 -
 - Inner Unit
 - Lot Area: 36 sqm.
