@@ -28,7 +28,6 @@ published: true
 - Palo Alto
 
 - Subdivison Name: Bria Homes Baras
-
 - Location: Pinugay, Baras Rizal
 
 - Inner Unit
