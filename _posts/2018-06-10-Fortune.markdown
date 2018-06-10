@@ -1,0 +1,47 @@
+---
+layout: post
+img: fortune1.jpg
+category: Marikina
+title: Fortune Lane Townhomes 3 Beds and 2 Baths
+published: true
+---
+
+![Fortune]({{ "images/fortune1.jpg" | absolute_url }})
+
+
+<h3><p>Looking for a property in Marikina? Flood Free! Near school and other major establishments.</p></h3>
+<br>
+<h4>Points of Interest or Nearby Places</h4>
+<br>
+
+- St. Scholastica's Acedemy Marikina
+- Fortune Elementary School
+- Philippine Postal Corp. Marikina
+- St. Camillus College Seminary
+- BPI Family Savings
+- Marikina Heights National Highschool
+<br>
+<br>
+
+
+- Subdivison Name: Fortune Lane Townhomes
+- Location: Parang, Marikina
+
+- Lot Area: 46 sqm.
+- Floor Area: 82 sqm.
+- No. of Bedroom: 3
+- No. of Toilet & Bath: 2
+
+- Total Contract Price: 3,650,000
+- Reservation Fee: 30,000
+- Equity: 15% 547,500
+- Equity Terms: 43,125.00/12 months
+- Max.Terms: 20 years
+- Loanable Amount: 3,102,500.00
+- Monthly Amortization 24,053.65
+
+- Financing: Bank
+- Other Fees: misc fee 5% (182,500.00)
+- Description: Townhouse
+- Turnover Mode: Finished
+- Turnover Date: June 2019
