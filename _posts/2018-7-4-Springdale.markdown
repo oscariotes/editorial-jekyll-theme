@@ -35,8 +35,8 @@ published: true
 <br>
 <br>
 
-- Subdivison Name: Spring Dale II at Pueblo Angono
-- Location: M.L. Quezon Avenue, Mahabang Parang Angono Rizal
+- Subdivison Name: Springdale II at Pueblo Angono
+- Location: M.L. Quezon Avenue, Mahabang Parang Angono, Rizal
 
 - Lot Area: 100 sqm.
 - Floor Area: 66 sqm.
