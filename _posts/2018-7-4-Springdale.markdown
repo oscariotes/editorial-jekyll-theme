@@ -2,7 +2,7 @@
 layout: post
 img: springdale.jpg
 category: Angono
-title: Spring Dale II at Pueblo Angono 2 beds and 1 bath
+title: Springdale II at Pueblo Angono 2 beds and 1 bath
 published: true
 ---
 
@@ -52,14 +52,7 @@ published: true
 - Monthly Amortization 24,081
 
 - Financing: Bank
-- Other Fees: 
-- Description: Duplex Type 
+- Other Fees:
+- Description: Duplex Type
 - Turnover Mode: Fully Finished
 - Turnover Date: 2 Years
-
-
-
-
-
-
-
